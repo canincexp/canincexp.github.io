@@ -11333,6 +11333,7 @@ pre {
   left: 0;
   width: 100%;
   height: 50%;
+  background-color: #f8f9fa;
 }
 
 #map iframe {
@@ -11421,7 +11422,7 @@ pre {
 }
 
 .page-footer {
-  background: #fcfdff;
+  background: #f8f9fa;
 }
 
 .page-footer .row {
