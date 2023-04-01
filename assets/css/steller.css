@@ -4731,7 +4731,9 @@ input[type="button"].btn-block {
   .navbar-expand-md > .container-fluid {
     padding-right: 0;
     padding-left: 0;
+    flex-direction: column;
   }
+  
 }
 
 @media (min-width: 768px) {
