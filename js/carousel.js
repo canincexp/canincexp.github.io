@@ -31,8 +31,11 @@ showSlides(slideIndex); // Show the first slide
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
+  // Autonomous slide feature
 }
-
+setInterval(function() {
+  plusSlides(1); // Move to the next slide every 10 seconds
+}, 15000); // Change image every 15 seconds
 function showSlides(n) {
   let i;
   let slides = document.getElementsByClassName("carousel-item");
@@ -44,7 +47,3 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block"; // Show the current slide
 }
 
-// Autonomous slide feature
-setInterval(function() {
-  plusSlides(1); // Move to the next slide every 10 seconds
-}, 15000);
