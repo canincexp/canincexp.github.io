@@ -2,8 +2,8 @@
 layout: post
 title:  Başlıyorum  
 date:   2023-10-01 01:15:34 +0300
-categories: logs
-tags: [genel]
+categories: notes
+tags: 
 ---
 
 # Genel
