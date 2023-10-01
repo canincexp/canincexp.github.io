@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bir Polymath ve Odaklanamama  
-date:   2023-10-01 01:15:34 +0300
+date:   2023-10-01 03:15:34 +0300
 categories: logs
 tags: [Proje]
 ---
