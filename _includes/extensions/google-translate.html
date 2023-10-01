@@ -13,7 +13,7 @@
   <ul class="list-unstyled ct-language-dropdown">
     {% for item in translate_langs %}
       <li>
-        <a href="#" class="lang-select" data-lang="en">
+        <a href="#" class="lang-select" data-lang="{{ item.lang }}">
           {% if item.img %}
           <img src="{{ item.img }}" title="{{ item.text }}">
           {% else %}

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Deneme yapıyorum"
-date:   2023-09-30 22:45:34 +0300
-categories: jekyll update deneme
----
-
-bu yazıyı google translate çevirecek mi merak ediyorum açıkcası. 

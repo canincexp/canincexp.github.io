@@ -4,3 +4,7 @@
 - lang: en
   img: https://cdn.countryflags.com/thumbs/united-states-of-america/flag-400.png
   text: English
+
+- lang: tr
+  img: https://cdn.countryflags.com/thumbs/turkey/flag-400.png
+  text: Turkish

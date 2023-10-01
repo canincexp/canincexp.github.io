@@ -2,8 +2,8 @@
 layout: post
 title: Video example
 subtitle:
-categories: example
-tags: [video]
+categories: 
+tags: 
 ---
 
 ## Canon in D (Pachelbel's Canon) - Cello & Piano [BEST WEDDING VERSION]
