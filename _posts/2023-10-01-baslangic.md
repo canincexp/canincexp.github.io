@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Başlıyorum"
+title:  Başlıyorum  
 date:   2023-10-01 01:15:34 +0300
 categories: logs
 tags: [genel]
 ---
 
-### Genel
+# Genel
 Merhabalar, blog konusunda yeni başlıyorum ve günlük olarak buraya bazı girdiler girmeyi düşünüyorum. Öncelikle sistem nasıl işliyor ve benim sistemimle nasıl entegre olacak onlardan da bahsetmek istiyorum.
-### İşleyiş
+# İşleyiş
 1. Aklıma takılan konular
 2. Öğrendiklerim
 3. Hayata dair düşündüklerim
@@ -16,7 +16,7 @@ Merhabalar, blog konusunda yeni başlıyorum ve günlük olarak buraya bazı gir
 5. Projelerim ve diğer konular
 
 gibi konularda buraya yazmayı düşünüyorum.
-### Kategoriler
+# Kategoriler
 1. Programlama
 2. AI
 3. CX
@@ -25,5 +25,5 @@ gibi konularda buraya yazmayı düşünüyorum.
 6. Bilim
 7. Düşünceler
 
-### Taglar
+# Taglar
 Burada da çeşitli keywordler olacak. Zamanla oturacaktır diye düşünüyorum. Bakalım.
