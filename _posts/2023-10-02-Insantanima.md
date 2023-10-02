@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Beyin ve Gücü  
+title:  İnsanı tanı, Dünyayı tanı
 date:   2023-10-01 12:15:34 +0300
 categories: notes
 tags: [önemli]
