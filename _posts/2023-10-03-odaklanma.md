@@ -6,3 +6,4 @@ categories: notes
 tags: [düşünceler]
 ---
 
+odaklanma üzerine yazı 
