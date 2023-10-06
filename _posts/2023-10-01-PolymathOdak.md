@@ -2,8 +2,8 @@
 layout: post
 title:  Bir Polymath ve Odaklanamama  
 date:   2023-10-01 03:15:34 +0300
-categories: notes
-tags: 
+categories: düşünceler
+tags: [odaklanma, önemli]
 ---
 
 Bir polymath olmak, başarının yanı sıra, zihinsel zorluklarla da karşı karşıya gelmek demektir. Tek bir konuya dalma yeteneği, genellikle bir polymathın pek çok alandaki ilgisi ve yetenekleriyle çelişir. Bu, çoğu zaman bir polymathın kendi potansiyeline ulaşmasını engelleyen bir engel olarak karşımıza çıkar. Bu yazıda, 150'den fazla Chrome sekmesi ile her gün 5-6 farklı konu üzerinde çalışma deneyimimi paylaşarak, bir polymath'ın odaklanma mücadelesinden bahsedeceğim.

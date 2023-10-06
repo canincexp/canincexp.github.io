@@ -2,8 +2,8 @@
 layout: post
 title:  Odaklanma
 date:   2023-10-04 05:15:34 +0300
-categories: notes
-tags: [düşünceler]
+categories: düşünceler
+tags: [önemli, öğrenme]
 ---
 
 Günümüzde bireyler, dijital çağın getirdiği bilgi bombardımanı ve sürekli uyaranlar karşısında kendilerini savunmasız hissedebilmektedir. Teknolojik ilerleme ve sosyal medya platformlarının hayatımızdaki yeri, bireylerin dikkatlerini sürekli olarak bölünmüş bir halde bulmalarına yol açar. Bu durum, odaklanma yeteneğimizi zayıflatmakta ve bireylerin bir iş üzerinde derinlemesine düşünme kapasitesini kısıtlamaktadır. Aynı zamanda, sürekli gelen bildirimler ve güncellemeler, bireylerin stres ve kaygı düzeylerini artırabilir. Bilgiye ulaşımın kolaylaşması elbette olumlu yanlarına sahip; fakat bu durum aynı zamanda, bireylerin önemli ve değersiz bilgileri ayırt etmekte zorlanmasına ve zaman yönetimi problemleri yaşamasına neden olabilmektedir.

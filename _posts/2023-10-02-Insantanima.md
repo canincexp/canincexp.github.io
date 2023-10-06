@@ -2,8 +2,8 @@
 layout: post
 title:  İnsanı tanı, Dünyayı tanı
 date:   2023-10-01 12:15:34 +0300
-categories: notes
-tags: [önemli]
+categories: not
+tags: [önemli, CX]
 ---
 
 Gece çok güzel bir video izledim ve o da kayıtlarımda bulunsun istedim.
