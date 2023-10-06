@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Başlıyorum  
-date:   2023-10-01 01:15:34 +0300
+date:   2022-01-30 01:15:34 +0300
 categories: notes
 tags: 
 ---
