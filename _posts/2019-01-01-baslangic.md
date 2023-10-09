@@ -38,4 +38,4 @@ gibi konularda buraya yazmayı düşünüyorum.
 
 Şimdilik böyle bir kategorizasyon düşünüyorum. Zamanla değişebilir.
 
-![Genel Şablon](https://drive.google.com/file/d/1HTW7yWiAFiOQ0JVB5EVw21SFEhdhYUDO/view?usp=drive_link)
+![Genel Şablon](https://drive.google.com/file/d/1HTW7yWiAFiOQ0JVB5EVw21SFEhdhYUDO/view?usp=sharing)
