@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Başlıyorum  
-date:   2022-01-30 01:15:34 +0300
+date:   2019-01-01 01:15:34 +0300
 categories: not
 tags: [temel]
 ---
@@ -37,3 +37,5 @@ gibi konularda buraya yazmayı düşünüyorum.
 şeklinde olacak. 
 
 Şimdilik böyle bir kategorizasyon düşünüyorum. Zamanla değişebilir.
+
+![Genel Şablon](https://drive.google.com/file/d/1HTW7yWiAFiOQ0JVB5EVw21SFEhdhYUDO/view?usp=drive_link)
